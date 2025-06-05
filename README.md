@@ -1,5 +1,6 @@
 # ML-Optimization-Algal-Cements
-Closed-loop optimization using machine learning for the accelerated design of sustainable cements incorporating algal biomatter
+This code is used in the manuscript titled "Closed-loop optimization using machine learning for the accelerated design of sustainable cements incorporating algal biomatter", authored by Meng-Yen Lin, Kristen Severson, Paul Grandgeorge, and Eleftheria
+Roumeli
 
 This folder contains the code that was developed for the modeling and closed loop testing.
 
